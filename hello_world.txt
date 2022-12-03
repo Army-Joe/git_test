@@ -1,3 +1,5 @@
 # git_test
 My first GitHub repo!
 Hello Odin!
+I have added the git config --global core.editor "code --wait"  
+This will adjust the git commit command
